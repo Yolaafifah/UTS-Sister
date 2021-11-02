@@ -13,7 +13,7 @@ $counter = 1;
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<link rel="stylesheet" type="text/css" href="asset/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="https://objectstorage.ap-sydney-1.oraclecloud.com/n/sduhmea9lis6/b/Tugas8/o/UTS%2Fcss%2Fbootstrap.min.css">
 		<title>PHP NATIVE CRUD</title>
 	</head>
 	<body>
